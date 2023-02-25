@@ -1,5 +1,5 @@
 # Othman Fares Mokhtari
-![about me](https://github.com/FdevTech/FdevTech/blob/main/hello.png)
+![about me](https://github.com/FdevTech/FdevTech/blob/main/src/image/hello.png)
 ## about me
 when I was a child I dreamed about building robots so I joined a univerity in Algeria to follow my childhood dream, but when I was at the university a new era of smartphones began so I told myself I should do this after my graduation.
 
