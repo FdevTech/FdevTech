@@ -25,6 +25,7 @@ in my projects, I follow the *clean architecture* approach combining it with a d
 
 ## Most Used Language
 > Note Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on my GitHub public projects 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FdevTech&theme=dark)](https://github.com/FdevTech)
 
 ## reach out
